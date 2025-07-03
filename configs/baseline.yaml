@@ -50,7 +50,7 @@ model_args:
   share_classifier: True
   weight_norm: True
 
-# 动态时间注意力机制参数
+# Dynamic time attention mechanism parameters
 attention_params:
   max_window_size: 11
   kernel_sizes: [5, 9, 13]
