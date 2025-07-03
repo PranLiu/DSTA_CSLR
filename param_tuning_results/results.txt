@@ -1,0 +1,29 @@
+# 超参数调整结果
+max_window_size=7, kernel_sizes=3,5,7, reduction_ratio=8, dev_wer=196.91%, time=58.14s
+max_window_size=7, kernel_sizes=3,5,7, reduction_ratio=16, dev_wer=198.00%, time=52.62s
+max_window_size=7, kernel_sizes=3,5,7, reduction_ratio=32, dev_wer=198.03%, time=52.93s
+max_window_size=7, kernel_sizes=3,7,11, reduction_ratio=8, dev_wer=187.19%, time=53.82s
+max_window_size=7, kernel_sizes=3,7,11, reduction_ratio=16, dev_wer=196.02%, time=52.79s
+max_window_size=7, kernel_sizes=3,7,11, reduction_ratio=32, dev_wer=198.59%, time=53.11s
+max_window_size=7, kernel_sizes=5,9,13, reduction_ratio=8, dev_wer=195.57%, time=53.68s
+max_window_size=7, kernel_sizes=5,9,13, reduction_ratio=16, dev_wer=195.73%, time=53.99s
+max_window_size=7, kernel_sizes=5,9,13, reduction_ratio=32, dev_wer=196.80%, time=53.62s
+max_window_size=9, kernel_sizes=3,5,7, reduction_ratio=8, dev_wer=197.52%, time=53.60s
+max_window_size=9, kernel_sizes=3,5,7, reduction_ratio=16, dev_wer=198.05%, time=53.60s
+max_window_size=9, kernel_sizes=3,5,7, reduction_ratio=32, dev_wer=199.25%, time=53.57s
+max_window_size=9, kernel_sizes=3,7,11, reduction_ratio=8, dev_wer=197.41%, time=54.12s
+max_window_size=9, kernel_sizes=3,7,11, reduction_ratio=16, dev_wer=198.80%, time=53.46s
+max_window_size=9, kernel_sizes=3,7,11, reduction_ratio=32, dev_wer=199.12%, time=52.40s
+max_window_size=9, kernel_sizes=5,9,13, reduction_ratio=8, dev_wer=197.76%, time=54.36s
+max_window_size=9, kernel_sizes=5,9,13, reduction_ratio=16, dev_wer=198.67%, time=54.17s
+max_window_size=9, kernel_sizes=5,9,13, reduction_ratio=32, dev_wer=197.73%, time=54.62s
+max_window_size=11, kernel_sizes=3,5,7, reduction_ratio=8, dev_wer=198.53%, time=53.94s
+max_window_size=11, kernel_sizes=3,5,7, reduction_ratio=16, dev_wer=180.55%, time=54.65s
+max_window_size=11, kernel_sizes=3,5,7, reduction_ratio=32, dev_wer=198.80%, time=54.10s
+max_window_size=11, kernel_sizes=3,7,11, reduction_ratio=8, dev_wer=198.00%, time=53.85s
+max_window_size=11, kernel_sizes=3,7,11, reduction_ratio=16, dev_wer=196.26%, time=54.55s
+max_window_size=11, kernel_sizes=3,7,11, reduction_ratio=32, dev_wer=199.47%, time=54.19s
+max_window_size=11, kernel_sizes=5,9,13, reduction_ratio=8, dev_wer=197.79%, time=53.54s
+max_window_size=11, kernel_sizes=5,9,13, reduction_ratio=16, dev_wer=177.37%, time=53.66s
+max_window_size=11, kernel_sizes=5,9,13, reduction_ratio=32, dev_wer=198.67%, time=54.02s
+

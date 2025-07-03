@@ -1,0 +1,1 @@
+max_window_size=7, kernel_sizes=5,9,13, reduction_ratio=16, dev_wer=195.73%
