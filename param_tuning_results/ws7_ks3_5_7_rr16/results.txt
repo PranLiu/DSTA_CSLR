@@ -1,2 +1,0 @@
-max_window_size=7, kernel_sizes=3,5,7, reduction_ratio=16, dev_wer=198.00%
-max_window_size=7, kernel_sizes=3,5,7, reduction_ratio=16, dev_wer=100.00%

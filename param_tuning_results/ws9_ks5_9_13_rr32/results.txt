@@ -1,1 +1,0 @@
-max_window_size=9, kernel_sizes=5,9,13, reduction_ratio=32, dev_wer=197.73%
