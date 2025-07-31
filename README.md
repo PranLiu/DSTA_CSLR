@@ -19,7 +19,7 @@
 
 ## Data Preparation
 
-You can choose any one of following datasets to verify the effectiveness of CorrNet.
+You can choose any one of following datasets to verify the effectiveness of DSTA.
 
 ### PHOENIX2014 dataset
 
