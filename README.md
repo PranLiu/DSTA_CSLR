@@ -1,4 +1,4 @@
-# DSTA_CSLR
+# DMTKA_CSLR
 
 - This is experimental code to demonstrate the overall structure and realism of the framework. Due to the protection of the training data, the trained model will be published after the paper is received.
 
